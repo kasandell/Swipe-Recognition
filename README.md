@@ -1,0 +1,1 @@
+This project aims to show a new way to unlock your phone. This project is based off of the idea that everyone swipes their phone a slightly different way, and this project uses a neural network to recognize a swipe
