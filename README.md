@@ -1,1 +1,1 @@
-This project aims to show a new way to unlock your phone. This project is based off of the idea that everyone swipes their phone a slightly different way. The app collects data about the swipe and compares it to the swwipe used to calibrate the app. 
+This project aims to show a new way to unlock your phone. This project is based off of the idea that everyone swipes their phone a slightly different way. The app collects data about the swipe and compares it to the swipe used to calibrate the app. 
